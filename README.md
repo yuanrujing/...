@@ -22,12 +22,12 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 气温{{temp.DATA}} 
 
-风向{{wind.DATA}} 
+风向{{wind_dir.DATA}} 
 
 今天是我们认识的第{{friendly_day.DATA}}天 
 
-{{birthday_1.DATA}} 
-{{birthday_2.DATA}}
+{{birthday1.DATA}} 
+{{birthday2.DATA}}
 
 
 {{note_en.DATA}} 
